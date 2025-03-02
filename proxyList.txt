@@ -1,3 +1,4 @@
+172.232.239.151,587,ID,Akamai
 103.133.223.51,2096,ID,Cloud Teknologi Nusantara
 103.133.223.52,2096,ID,Cloud Teknologi Nusantara
 103.133.223.50,2096,ID,Cloud Teknologi Nusantara
