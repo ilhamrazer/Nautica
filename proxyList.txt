@@ -1,3 +1,4 @@
 103.133.223.51,2096,ID,Cloud Teknologi Nusantara
 103.133.223.52,2096,ID,Cloud Teknologi Nusantara
 103.133.223.50,2096,ID,Cloud Teknologi Nusantara
+47.74.254.191,8900,SG,Alibaba
