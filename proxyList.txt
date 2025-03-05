@@ -1,4 +1,5 @@
 172.232.239.151,587,ID,Akamai
+172.235.251.223,587,ID,Akamai
 36.95.152.58,12137,ID,Pt telekomunikasi
 103.6.207.108,8080,ID,Pt Pusat Media
 8.215.196.18,587,ID,Alibaba
