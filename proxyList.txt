@@ -1,6 +1,6 @@
 172.232.239.151,587,ID,Akamai
 172.235.251.223,587,ID,Akamai
-36.95.152.58,12137,ID,Pt telekomunikasi
+43.218.77.16,443,ID,Amazon.com, Inc.
 103.6.207.108,8080,ID,Pt Pusat Media
 8.215.196.18,587,ID,Alibaba
 35.219.50.99,443,ID,Google Cloud
